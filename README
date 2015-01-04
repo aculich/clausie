@@ -1,0 +1,14 @@
+CONTENTS (VERSION 0.0.1)
+
+-data/ : A set of test sentences
+-clausie_lib/: A set of libraries used by clausie
+-src/: Clausie source code
+-clausie.jar: A runnable .jar file
+
+LICENSE
+
+* Clausie is distributed under the Attribution-ShareAlike (ver. 3.0 or later) [http://creativecommons.org/licenses/by-sa/3.0/legalcode]
+
+* This distribution includes libraries of the Stanford Parser v. 2.0.5 [http://www-nlp.stanford.edu/software/lex-parser.shtml] which is licensed under the GNU General Public License (v2 or later) [http://www.gnu.org/licenses/gpl-2.0.html]
+
+As explained in the respective license codes both Clausie and the Stanford Parser come with absolutely no warranty.

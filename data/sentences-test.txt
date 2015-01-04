@@ -1,0 +1,61 @@
+1	It does not work.
+2	This is a sentence with a preposition.
+3	If he studies hard, he will pass the exam.
+4	He will pass the exam because he studies hard.
+5	People are expected to tell the truth.
+6	He was required to say whether he wants to join.
+7	The government required the companies to tell the truth.
+8	He is smart and fat but he does not want to play football.
+9	She drinks tea and he does not play football.
+10	He eats a sweet cake and drinks hot chocolate.
+11	He is fat but does not eat a lot.
+12	He is fat and small but drinks water.
+13	Paul, who is the bravest man in the world, does not want to fight.
+14	He is big and seems happy.
+15	I mix and match various components.
+16	I eat this and enjoy that. 
+17	I eat and enjoy apples and like mountains.
+18	I saw the man who you love.
+19	I saw the person who is going to make history.
+20	He has been happy.
+21	I saw the house in which you grew up.
+22	This is the house in which you grew up.
+23	He is the person who is going to change the world.
+24	The house in which we live is green.
+25	I inadvertently put it on the table.
+26	I saw the man whose house I like.
+27	This is the man whose house I like.
+28	I saw the man whose wife I trust.
+29	This is the man whose wife I trust.
+30	I saw the house I like.
+31	I saw the house I grew up in.
+32	This is the person I saw.
+33	This is the house I grew up in.
+34	Bill's clothes are great.
+35	I saw the person whose mother I gave the book.
+36	I inadvertently put it on the table.
+37	Truffles picked in France during spring are tasty.
+38	He was not in charge.
+39	I doubt if she was sure whether this was important.
+40	He often goes to the park.
+41	He hardly goes to the park.
+42	In 1921, I inadvertently put it on the table.
+43	The governement required the companies in november to tell the truth from inside.
+44	He likes to eat and drink.
+45	In European competitions, Jamie Carragher holds the club record for the most appearances, with 139, and Steven Gerrard is the club's record goalscorer, with 38 goals.
+46	My dog, John said, is great.
+47	Crying the wwhole day, he went to Paris.
+48	Luckily for me, I won.
+49	Albert Einstein died in Princeton in 1955.
+50	Albert Einstein remained in Princeton until his death.
+51	Albert Einstein is a scientist of the 20th century.
+# DP error in next sentence (in 1921 depends on Nobel Prize instead of on won)
+52	Albert Einstein has won the Nobel Prize in 1921.
+53	In 1921, Albert Einstein has won the Nobel Prize.
+54	Between 2 and 3 people came to the party.
+55	Both girls and boys are good.
+56	Both the boys and the girls are here.
+57	This is between you and me.
+58	He looks in both left and right directions.
+59	He runs in both directions left and right.
+60	John & Paul Co. sold stocks.
